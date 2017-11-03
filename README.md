@@ -1,4 +1,4 @@
-# Pig-dice
+# PIG-DICE
 
 ### A game of dice where two users play against each other, 2017
 
