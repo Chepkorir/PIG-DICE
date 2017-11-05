@@ -1,0 +1,19 @@
+.head{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+}
+
+.dice{
+  float: center;
+  width: 35px;
+  padding: inherit;
+  font-size:  40px;
+  text-align: justify;
+}
+.container{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  color: blue;
+}

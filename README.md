@@ -6,10 +6,11 @@
 
 ## Description
  This is a game where a player takes as turn to roll dice and the score recorded and later on a winner is determined as the person who has more points awarded to them.
+
  The rules for the game are simple
- 1. first player presses play and the dice is rollled
+ 1. first player presses play and the dice is rolled
  2. the outcome is recorded and the second player takes a turn
- 3. At the end of the game their scroes are weighed against each other and the winner is determined.
+ 3. At the end of the game their scores are weighed against each other and the winner is determined.
 
 
 
